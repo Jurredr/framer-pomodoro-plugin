@@ -1,0 +1,8 @@
+{
+  "id": "9d4b77",
+  "name": "Test Framer Plugin",
+  "modes": [
+    "canvas"
+  ],
+  "icon": "/icon.svg"
+}
