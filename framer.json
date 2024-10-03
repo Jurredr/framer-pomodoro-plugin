@@ -1,8 +1,8 @@
 {
   "id": "9d4b77",
-  "name": "Test Framer Plugin",
+  "name": "Pomodoro Timer",
   "modes": [
     "canvas"
   ],
-  "icon": "/icon.svg"
+  "icon": "/icon.png"
 }
